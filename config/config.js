@@ -3,7 +3,7 @@ module.exports = {
   development: {
     username: "postgres",
     password: process.env.PG_PASSWORD,
-    database: "express-mbp-db",
+    database: "express-mvp-db",
     host: "127.0.0.1",
     dialect: "postgres",
     port: 5432,
